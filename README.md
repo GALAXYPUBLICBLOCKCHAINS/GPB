@@ -8,7 +8,7 @@ To join the mainnet, follow this guide.
 
 # Documentation
 
-Documentation for the Gauss gateway lives at this.
+Documentation for the GPB gateway lives at this.
 
 # Resources
 
